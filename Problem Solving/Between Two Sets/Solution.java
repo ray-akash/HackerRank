@@ -1,5 +1,4 @@
 // I bet, you won't even try to understand it after few days !!
-// Dated 10-04-22
 import java.util.Scanner;
 class Solution
 {
